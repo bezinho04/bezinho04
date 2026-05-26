@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Bernardo
 
-<!--
-**bezinho04/bezinho04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer em evolução
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight)
+
+## 📌 Projetos
+
+- 🤖 Bot WhatsApp
+- 🌐 Landing Page
+- 📱 Clone Netflix# 👋 Bernardo
+
+💻 Front-End Developer em evolução
+
+## 🚀 Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight)
+
+## 📌 Projetos
+
+- 🤖 Bot WhatsApp
+- 🌐 Landing Page
+- 📱 Clone Netflix
