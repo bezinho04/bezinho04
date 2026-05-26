@@ -12,11 +12,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight)
 
-## 📌 Projetos
-
-- 🤖 Bot WhatsApp
-- 🌐 Landing Page
-- 📱 Clone Netflix# 👋 Bernardo
 
 💻 Front-End Developer em evolução
 
